@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Lakshay Arora 👋
 
-<!--
-**Ai-Laksh/Ai-Laksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | 🤖 AI Enthusiast | 🐍 Python Developer
 
-Here are some ideas to get you started:
+## About me
+- 🔭 Building AI-powered apps with Python + LLM APIs
+- 🌱 Learning Machine Learning & Deep Learning
+- 💡 Certified in Anthropic Claude, Python, Java, C++
+- 📍 Delhi, India
+- 📫 lakshayaroradk@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+`Python` `Machine Learning` `Prompt Engineering`
+`Anthropic Claude` `ChatGPT` `Google Gemini`
+`Pandas` `NumPy` `Streamlit` `Git`
+
+## Featured projects
+→ AI Resume Analyzer — AI-powered resume vs JD match scorer
+→ Smart News Assistant — Daily news with AI summaries
+→ AI Study Buddy — Flashcard & quiz generator
