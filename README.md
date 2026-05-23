@@ -10,9 +10,8 @@
 - 📫 lakshayaroradk@gmail.com
 
 ## Skills
-`Python` `Machine Learning` `Prompt Engineering`
-`Anthropic Claude` `ChatGPT` `Google Gemini`
-`Pandas` `NumPy` `Streamlit` `Git`
+`Python` `Prompt Engineering`
+` Claude` `ChatGPT` `Google Gemini`
 
 ## Featured projects
 → AI Resume Analyzer — AI-powered resume vs JD match scorer
