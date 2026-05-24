@@ -14,6 +14,6 @@
 ` Claude` `ChatGPT` `Google Gemini`
 
 ## Featured projects
-→ AI Resume Analyzer — AI-powered resume vs JD match scorer
+→I Resume Analyzer — AI-powered resume vs JD match scorer
 → Smart News Assistant — Daily news with AI summaries
-→ AI Study Buddy — Flashcard & quiz generator
+→ AI Study Buddy — Flashcard & quiz generator.....
