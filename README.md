@@ -16,4 +16,4 @@
 ## Featured projects
 →I Resume Analyzer — AI-powered resume vs JD match scorer
 → Smart News Assistant — Daily news with AI summaries
-→ AI Study Buddy — Flashcard & quiz generator.....
+→ AI Study Buddy — Flashcard & quiz generator
